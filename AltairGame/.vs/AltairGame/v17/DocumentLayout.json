@@ -3,7 +3,23 @@
   "WorkspaceRootPath": "D:\\proyectos\\ProjectAltair\\AltairGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA3765A2-D19E-8D23-F0E2-ECAE376B8E1F}|Assembly-CSharp.csproj|d:\\proyectos\\projectaltair\\altairgame\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA3765A2-D19E-8D23-F0E2-ECAE376B8E1F}|Assembly-CSharp.csproj|D:\\proyectos\\ProjectAltair\\AltairGame\\assets\\scripts\\pokemons\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3765A2-D19E-8D23-F0E2-ECAE376B8E1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pokemons\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3765A2-D19E-8D23-F0E2-ECAE376B8E1F}|Assembly-CSharp.csproj|d:\\proyectos\\projectaltair\\altairgame\\assets\\scripts\\pokemons\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3765A2-D19E-8D23-F0E2-ECAE376B8E1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pokemons\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3765A2-D19E-8D23-F0E2-ECAE376B8E1F}|Assembly-CSharp.csproj|D:\\proyectos\\ProjectAltair\\AltairGame\\assets\\scripts\\pokemons\\pokemonbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3765A2-D19E-8D23-F0E2-ECAE376B8E1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pokemons\\pokemonbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3765A2-D19E-8D23-F0E2-ECAE376B8E1F}|Assembly-CSharp.csproj|d:\\proyectos\\projectaltair\\altairgame\\assets\\scripts\\pokemons\\movebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3765A2-D19E-8D23-F0E2-ECAE376B8E1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pokemons\\movebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3765A2-D19E-8D23-F0E2-ECAE376B8E1F}|Assembly-CSharp.csproj|D:\\proyectos\\ProjectAltair\\AltairGame\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA3765A2-D19E-8D23-F0E2-ECAE376B8E1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,11 +30,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Move.cs",
+              "DocumentMoniker": "D:\\proyectos\\ProjectAltair\\AltairGame\\Assets\\Scripts\\Pokemons\\Move.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pokemons\\Move.cs",
+              "ToolTip": "D:\\proyectos\\ProjectAltair\\AltairGame\\Assets\\Scripts\\Pokemons\\Move.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pokemons\\Move.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:50:17.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoveBase.cs",
+              "DocumentMoniker": "D:\\proyectos\\ProjectAltair\\AltairGame\\Assets\\Scripts\\Pokemons\\MoveBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pokemons\\MoveBase.cs",
+              "ToolTip": "D:\\proyectos\\ProjectAltair\\AltairGame\\Assets\\Scripts\\Pokemons\\MoveBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pokemons\\MoveBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:40:42.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "D:\\proyectos\\ProjectAltair\\AltairGame\\Assets\\Scripts\\Pokemons\\Pokemon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pokemons\\Pokemon.cs",
+              "ToolTip": "D:\\proyectos\\ProjectAltair\\AltairGame\\Assets\\Scripts\\Pokemons\\Pokemon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pokemons\\Pokemon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:18:23.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PokemonBase.cs",
+              "DocumentMoniker": "D:\\proyectos\\ProjectAltair\\AltairGame\\Assets\\Scripts\\Pokemons\\PokemonBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pokemons\\PokemonBase.cs",
+              "ToolTip": "D:\\proyectos\\ProjectAltair\\AltairGame\\Assets\\Scripts\\Pokemons\\PokemonBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pokemons\\PokemonBase.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAwwFoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:15:15.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "D:\\proyectos\\ProjectAltair\\AltairGame\\Assets\\Scripts\\Player\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
@@ -26,8 +94,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwE4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T21:19:30.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T21:19:30.509Z"
             }
           ]
         }
