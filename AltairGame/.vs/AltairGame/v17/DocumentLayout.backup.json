@@ -15,20 +15,8 @@
       "RelativeMoniker": "D:0:0:{BA3765A2-D19E-8D23-F0E2-ECAE376B8E1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battle\\battledialogbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA3765A2-D19E-8D23-F0E2-ECAE376B8E1F}|Assembly-CSharp.csproj|D:\\proyectos\\ProjectAltair\\AltairGame\\assets\\scripts\\pokemons\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA3765A2-D19E-8D23-F0E2-ECAE376B8E1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pokemons\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA3765A2-D19E-8D23-F0E2-ECAE376B8E1F}|Assembly-CSharp.csproj|D:\\proyectos\\ProjectAltair\\AltairGame\\assets\\scripts\\pokemons\\movebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA3765A2-D19E-8D23-F0E2-ECAE376B8E1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pokemons\\movebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BA3765A2-D19E-8D23-F0E2-ECAE376B8E1F}|Assembly-CSharp.csproj|D:\\proyectos\\ProjectAltair\\AltairGame\\assets\\scripts\\pokemons\\pokemonbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA3765A2-D19E-8D23-F0E2-ECAE376B8E1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pokemons\\pokemonbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA3765A2-D19E-8D23-F0E2-ECAE376B8E1F}|Assembly-CSharp.csproj|D:\\proyectos\\ProjectAltair\\AltairGame\\assets\\scripts\\battle\\battleunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA3765A2-D19E-8D23-F0E2-ECAE376B8E1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battle\\battleunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA3765A2-D19E-8D23-F0E2-ECAE376B8E1F}|Assembly-CSharp.csproj|D:\\proyectos\\ProjectAltair\\AltairGame\\assets\\scripts\\battle\\battlehud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,6 +25,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{BA3765A2-D19E-8D23-F0E2-ECAE376B8E1F}|Assembly-CSharp.csproj|D:\\proyectos\\ProjectAltair\\AltairGame\\assets\\scripts\\battle\\hpbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA3765A2-D19E-8D23-F0E2-ECAE376B8E1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battle\\hpbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3765A2-D19E-8D23-F0E2-ECAE376B8E1F}|Assembly-CSharp.csproj|D:\\proyectos\\ProjectAltair\\AltairGame\\assets\\scripts\\pokemons\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3765A2-D19E-8D23-F0E2-ECAE376B8E1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pokemons\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3765A2-D19E-8D23-F0E2-ECAE376B8E1F}|Assembly-CSharp.csproj|D:\\proyectos\\ProjectAltair\\AltairGame\\assets\\scripts\\pokemons\\movebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3765A2-D19E-8D23-F0E2-ECAE376B8E1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pokemons\\movebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3765A2-D19E-8D23-F0E2-ECAE376B8E1F}|Assembly-CSharp.csproj|D:\\proyectos\\ProjectAltair\\AltairGame\\assets\\scripts\\battle\\battleunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3765A2-D19E-8D23-F0E2-ECAE376B8E1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battle\\battleunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA3765A2-D19E-8D23-F0E2-ECAE376B8E1F}|Assembly-CSharp.csproj|D:\\proyectos\\ProjectAltair\\AltairGame\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,21 +50,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BattleDialogBox.cs",
-              "DocumentMoniker": "D:\\proyectos\\ProjectAltair\\AltairGame\\Assets\\Scripts\\Battle\\BattleDialogBox.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Battle\\BattleDialogBox.cs",
-              "ToolTip": "D:\\proyectos\\ProjectAltair\\AltairGame\\Assets\\Scripts\\Battle\\BattleDialogBox.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Battle\\BattleDialogBox.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwB0AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T12:24:26.577Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -73,38 +60,25 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Battle\\BattleSystem.cs",
               "ToolTip": "D:\\proyectos\\ProjectAltair\\AltairGame\\Assets\\Scripts\\Battle\\BattleSystem.cs",
               "RelativeToolTip": "Assets\\Scripts\\Battle\\BattleSystem.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAuwDgAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowGUAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T22:02:19.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T22:02:19.891Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BattleHud.cs",
-              "DocumentMoniker": "D:\\proyectos\\ProjectAltair\\AltairGame\\Assets\\Scripts\\Battle\\BattleHud.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Battle\\BattleHud.cs",
-              "ToolTip": "D:\\proyectos\\ProjectAltair\\AltairGame\\Assets\\Scripts\\Battle\\BattleHud.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Battle\\BattleHud.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T21:50:47.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "HPBar.cs",
               "DocumentMoniker": "D:\\proyectos\\ProjectAltair\\AltairGame\\Assets\\Scripts\\Battle\\HPBar.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Battle\\HPBar.cs",
               "ToolTip": "D:\\proyectos\\ProjectAltair\\AltairGame\\Assets\\Scripts\\Battle\\HPBar.cs",
               "RelativeToolTip": "Assets\\Scripts\\Battle\\HPBar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T21:46:55.086Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Move.cs",
               "DocumentMoniker": "D:\\proyectos\\ProjectAltair\\AltairGame\\Assets\\Scripts\\Pokemons\\Move.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Pokemons\\Move.cs",
@@ -122,14 +96,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Pokemons\\Pokemon.cs",
               "ToolTip": "D:\\proyectos\\ProjectAltair\\AltairGame\\Assets\\Scripts\\Pokemons\\Pokemon.cs",
               "RelativeToolTip": "Assets\\Scripts\\Pokemons\\Pokemon.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA6wFMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAcwEYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T19:18:23.724Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "BattleUnit.cs",
               "DocumentMoniker": "D:\\proyectos\\ProjectAltair\\AltairGame\\Assets\\Scripts\\Battle\\BattleUnit.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Battle\\BattleUnit.cs",
@@ -141,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "MoveBase.cs",
               "DocumentMoniker": "D:\\proyectos\\ProjectAltair\\AltairGame\\Assets\\Scripts\\Pokemons\\MoveBase.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Pokemons\\MoveBase.cs",
@@ -153,15 +127,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "PokemonBase.cs",
               "DocumentMoniker": "D:\\proyectos\\ProjectAltair\\AltairGame\\Assets\\Scripts\\Pokemons\\PokemonBase.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Pokemons\\PokemonBase.cs",
               "ToolTip": "D:\\proyectos\\ProjectAltair\\AltairGame\\Assets\\Scripts\\Pokemons\\PokemonBase.cs",
               "RelativeToolTip": "Assets\\Scripts\\Pokemons\\PokemonBase.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAYwHAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAF8AAAAAAAAAAADwv6gAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T18:15:15.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BattleDialogBox.cs",
+              "DocumentMoniker": "D:\\proyectos\\ProjectAltair\\AltairGame\\Assets\\Scripts\\Battle\\BattleDialogBox.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Battle\\BattleDialogBox.cs",
+              "ToolTip": "D:\\proyectos\\ProjectAltair\\AltairGame\\Assets\\Scripts\\Battle\\BattleDialogBox.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Battle\\BattleDialogBox.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:24:26.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BattleHud.cs",
+              "DocumentMoniker": "D:\\proyectos\\ProjectAltair\\AltairGame\\Assets\\Scripts\\Battle\\BattleHud.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Battle\\BattleHud.cs",
+              "ToolTip": "D:\\proyectos\\ProjectAltair\\AltairGame\\Assets\\Scripts\\Battle\\BattleHud.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Battle\\BattleHud.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T21:50:47.915Z"
             },
             {
               "$type": "Document",
