@@ -69,6 +69,7 @@
     <Compile Include="Assets\Scripts\Battle\HPBar.cs" />
     <Compile Include="Assets\Scripts\Battle\BattleUnit.cs" />
     <Compile Include="Assets\Scripts\Pokemons\Pokemon.cs" />
+    <Compile Include="Assets\Scripts\Battle\BattleDialogBox.cs" />
     <Compile Include="Assets\Scripts\Pokemons\Move.cs" />
   </ItemGroup>
   <ItemGroup>
