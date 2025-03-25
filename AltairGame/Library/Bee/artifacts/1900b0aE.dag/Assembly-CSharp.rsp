@@ -448,6 +448,7 @@
 "Assets/Scripts/Battle/BattleSystem.cs"
 "Assets/Scripts/Battle/BattleUnit.cs"
 "Assets/Scripts/Battle/HPBar.cs"
+"Assets/Scripts/GameController.cs"
 "Assets/Scripts/Player/PlayerController.cs"
 "Assets/Scripts/Pokemons/Move.cs"
 "Assets/Scripts/Pokemons/MoveBase.cs"
